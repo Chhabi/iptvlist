@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Nepali" tvg-logo="https://jcss-cdn.ekantipur.com/kantipur-tv/images/ktv-hd.png" group-title="",Kantipur TV
+https://broadcastktv184.ekantipur.com/ktvhdedgeusa1/edgeusacdnlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Nepali" tvg-logo="https://i.imgur.com/bFtJZLN.jpg" group-title="",Nepali TV
+http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
+#EXTM3U
 #EXTINF:-1,9x Tashan
 rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp
 #EXTINF:-1,asianet-middle-east-live/
